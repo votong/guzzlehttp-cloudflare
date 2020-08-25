@@ -592,16 +592,16 @@
         },
         {
             "name": "votong/cloudflare-bypass",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/votong/cloudflare-bypass.git",
-                "reference": "90b451d296cfabb6a57ec55c2d52fdffa49de87a"
+                "reference": "30b961d40fd9aa4b2813dafa9e4346f1d4646c36"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/votong/cloudflare-bypass/zipball/90b451d296cfabb6a57ec55c2d52fdffa49de87a",
-                "reference": "90b451d296cfabb6a57ec55c2d52fdffa49de87a",
+                "url": "https://api.github.com/repos/votong/cloudflare-bypass/zipball/30b961d40fd9aa4b2813dafa9e4346f1d4646c36",
+                "reference": "30b961d40fd9aa4b2813dafa9e4346f1d4646c36",
                 "shasum": ""
             },
             "require": {
@@ -630,7 +630,7 @@
                 }
             ],
             "description": "A library for helping bypass the cloudflare UAM page.",
-            "time": "2020-08-24T07:57:27+00:00"
+            "time": "2020-08-25T09:30:37+00:00"
         }
     ],
     "packages-dev": [
